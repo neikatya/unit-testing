@@ -17,7 +17,7 @@ html)
 навигационной панели.
 
 ## Код.
-https://github.com/neikatya/unit-testing/tree/main/src
+https://github.com/neikatya/unit-testing/tree/main
 
 ## Обоснование выбора точек в пункте 1.
 
