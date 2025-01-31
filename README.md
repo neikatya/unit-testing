@@ -17,7 +17,7 @@ html)
 навигационной панели.
 
 ## Код.
-https://github.com/Kyoto67/vt-labs-3/tree/tpo-lab1
+[https://github.com/Kyoto67/vt-labs-3/tree/tpo-lab1](https://github.com/neikatya/unit-testing/tree/main/src)
 
 ## Обоснование выбора точек в пункте 1.
 
